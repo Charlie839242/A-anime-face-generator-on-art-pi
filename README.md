@@ -2,8 +2,7 @@
 The generator is based on dcgan. It can randomly outputs different anime faces without any input. 
 Due to the limited resources of the embedded system, the scale of the generated faces is designed to be 48*48 and to be gray. 
 
-The generated face at 0 epoch:
-![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/0.png)
+The generated face at 0 epoch:![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/0.png)
 The generated face at 1250 epoch:
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/1250.png)
 The generated face at 2500 epoch:
