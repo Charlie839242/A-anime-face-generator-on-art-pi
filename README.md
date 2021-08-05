@@ -4,11 +4,13 @@
 The generator is based on dcgan. It can randomly outputs different anime faces without any input. 
 Due to the limited resources of the embedded system, the scale of the generated faces is designed to be 48*48 and to be gray. 
 
-    "py" file is to train the generator and the discriminator and export them as .h5 file. Then the .h5 file is inverted into .tflite.
+# How to Use
 
-    "model" file stores the resulted models.          //The effects of the models can be tested dircetly on PC without art-pi.
+   "py" folder is to train the generator and the discriminator and export them as .h5 file. Then the .h5 file is inverted into .tflite.
 
-    "dataset_gray_faces_48_48" file stores the training set, the scale of while is one channel and 48*48.
+   "model" folder stores the resulted models.          //The effects of the models can be tested dircetly on PC without art-pi.
 
-    "BSP" stores the project files that runs the model on the art-pi. It should be opened by "RT-Thread Studio".
+   "dataset_gray_faces_48_48" folder stores the training set, the scale of while is one channel and 48*48.
+
+   "BSP" folder stores the project files that runs the model on the art-pi. It should be opened by "RT-Thread Studio".
 
