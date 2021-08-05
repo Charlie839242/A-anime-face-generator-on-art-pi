@@ -35,6 +35,9 @@ Here are some examples of generated faces:
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/3.png)
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/4.png)
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/5.png)
+![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/6.png)
+![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/7.png)
+![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/8.png)
 
 
 # How to Use
