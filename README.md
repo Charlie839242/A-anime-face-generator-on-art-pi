@@ -4,6 +4,8 @@
 The generator is based on dcgan. It can randomly outputs different anime faces without any input. 
 Due to the limited resources of the embedded system, the scale of the generated faces is designed to be 48*48 and to be gray. 
 
+# How to Use
+
    "py" folder is to train the generator and the discriminator and export them as .h5 file. Then the .h5 file is inverted into .tflite.
 
    "model" folder stores the resulted models.          //The effects of the models can be tested dircetly on PC without art-pi.
