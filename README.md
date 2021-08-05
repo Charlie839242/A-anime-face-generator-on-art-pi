@@ -11,13 +11,21 @@ The generated face at 1250 epoch:
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/1250.png)
 
 The generated face at 2500 epoch:
+
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/2500.png)
+
 The generated face at 3750 epoch:
+
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/3750.png)
+
 The generated face at 5000 epoch:
+
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/5000.png)
+
 The generated face at 6250 epoch:
+
 ![image](https://github.com/Charlie839242/A-anime-face-generator-on-art-pi/blob/main/images/6250.png)
+
 
 It could be seen that the model performs bettter at around 5000 epoch.
 
